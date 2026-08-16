@@ -3,3 +3,4 @@ hola soy Dylan Perez, tengo 19 años años, soy estudiante de sexto semestre de 
 primer commit
 segundo commit 
 tercer commit
+Este texto se hizo desde la rama mejora-readme
